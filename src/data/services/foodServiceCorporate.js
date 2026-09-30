@@ -1,7 +1,6 @@
 // foodServiceCorporate.js
 import corporate from '../assets/images/corperate.jpeg';
 
-import corporate from "";
 const foodServiceCorporate = {
   slug: 'corporates-and-services',
   navLabel: 'Corporates and Services',
