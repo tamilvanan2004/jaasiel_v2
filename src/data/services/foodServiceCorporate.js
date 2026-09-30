@@ -1,5 +1,5 @@
 // foodServiceCorporate.js
-import corporate from '../assets/images/corperate.jpeg';
+import corporate from '../../assets/images/corperate.jpeg';
 
 const foodServiceCorporate = {
   slug: 'corporates-and-services',
