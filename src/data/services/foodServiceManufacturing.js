@@ -1,4 +1,7 @@
 // foodServiceManufacturing.js
+import manufacture from '../../assets/images/manufacture.jpeg';
+
+
 const foodServiceManufacturing = {
   slug: 'manufacturing',
   navLabel: 'Manufacturing',
