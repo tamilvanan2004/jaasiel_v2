@@ -8,8 +8,7 @@ const foodServiceManufacturing = {
   breadcrumb: 'Food Service',
   title: 'Food Service - Manufacturing',
   tagline: 'Industrial catering built around shift timings, high volume, and consistent hygiene.',
-  heroImage:
-    'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=1400&q=80',
+  heroImage:manufacture,
   heroHeading: 'Industrial Catering Specialization',
   body: [
     'Jaasiel Catering Service runs cloud kitchen operations purpose-built for factory floors, ensuring efficient food preparation and timely delivery even under tight shift schedules.',
