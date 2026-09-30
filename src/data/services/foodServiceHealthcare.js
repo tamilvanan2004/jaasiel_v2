@@ -1,12 +1,15 @@
 // foodServiceHealthcare.js
+
+import healthcare from '../../assets/images/healthcare.jpeg';
+
+
 const foodServiceHealthcare = {
   slug: 'healthcare',
   navLabel: 'Healthcare',
   breadcrumb: 'Food Service',
   title: 'Food Service - Healthcare',
   tagline: 'Catering built for the pace and precision of healthcare facilities.',
-  heroImage:
-    'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1400&q=80',
+  heroImage:healthcare,
   heroHeading: 'Catering to Healthcare Facilities',
   body: [
     'Jaasiel Catering Service recognizes the fast-paced environment of hospitals and tailors its service to meet the specific needs of healthcare staff, visitors, and patients.',
