@@ -1,4 +1,8 @@
 // foodServiceCorporate.js
+import corporate from '../assets/images/corporate.jpg';
+
+
+import corporate from "";
 const foodServiceCorporate = {
   slug: 'corporates-and-services',
   navLabel: 'Corporates and Services',
@@ -6,7 +10,7 @@ const foodServiceCorporate = {
   title: 'Food Service - Corporates and Services',
   tagline: 'Delicious and cost-effective catering that keeps your team energized and focused.',
   heroImage:
-    'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1400&q=80',
+    '',
   heroHeading: 'Delicious & Cost-Effective, Every Day',
   body: [
     'At Jaasiel Catering Service, a division of Jaasiel Enterprises, we believe great food fuels great work. Our young, dynamic team is committed to delivering exceptional culinary experiences that satisfy both taste buds and nutritional needs.',
