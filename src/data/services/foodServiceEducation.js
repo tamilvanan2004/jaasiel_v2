@@ -1,4 +1,8 @@
 // foodServiceEducation.js
+
+import education from '../../assets/images/healthcare.jpeg';
+
+
 const foodServiceEducation = {
   slug: 'education',
   navLabel: 'Education',
