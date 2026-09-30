@@ -1,6 +1,6 @@
 // foodServiceEducation.js
 
-import education from '../../assets/images/healthcare.jpeg';
+import education from '../../assets/images/education.jpeg';
 
 
 const foodServiceEducation = {
