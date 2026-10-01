@@ -19,6 +19,8 @@ import Contact from './pages/Contact';
 import WhoWeAre from './pages/WhoWeAre';
 import ManagementTeam from './pages/ManagementTeam';
 import ServiceAreas from './pages/ServiceAreas';
+import ScrollToTop from './components/ScrollToTop';
+
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
 
@@ -38,6 +40,7 @@ export default function App() {
 
   return (
     <Box sx={{ overflowX: 'hidden' }}>
+    <ScrollToTop />
       <Navbar />
 
       <Box component="main" sx={{ pt: '88px' }}>
